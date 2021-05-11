@@ -1,0 +1,42 @@
+[
+    {
+        "tags": "Chào mừng",
+        "patterns": [
+            "Xin chào",
+            "Địt mẹ mày",
+            "Hello",
+            "Bonjour"
+        ],
+        "response": [
+            "Chào",
+            "Chào mừng",
+            "Địt mẹ mày luôn",
+            "Lần đầu gặp mặt",
+            "Hân hạnh được quen biết bạn"
+        ]
+    },
+    {
+        "tags": "Tạm biệt",
+        "patterns": [
+            "Tạm biệt",
+            "Bye",
+            "Pp"
+        ],
+        "response": [
+            "Tạm biệt",
+            "Bye~",
+            "Cút!",
+            "Biến!"
+        ]
+    },
+    {
+        "tags": "Hỏi linh tinh",
+        "patterns": [
+            "Khi nào trời mưa"
+        ],
+        "response": [
+            "Chịu",
+            "Đi mà google bố biết thế đéo nào được"
+        ]
+    }
+]
